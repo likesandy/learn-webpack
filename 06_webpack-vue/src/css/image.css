@@ -1,0 +1,7 @@
+/* src/images/image.css */
+.image-bg {
+  background-image: url("../images/sandy.jpg");
+  width: 200px;
+  height: 200px;
+  background-size: contain;
+}

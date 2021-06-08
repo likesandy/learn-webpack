@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22002728",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    }
+  ]
+}
